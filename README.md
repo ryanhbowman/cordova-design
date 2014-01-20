@@ -1,2 +1,2 @@
-# Ladders App
-A personal library app. Allows the entry of books via ISBN / barcode. A playground for testing PhoneGap.
+# Stacks App - Dummy design app
+Dummy HTML designs for Stacks. You can use these for integration. They will continue to evolve.
